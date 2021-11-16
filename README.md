@@ -4,7 +4,7 @@
 
 To understand physical phenomena, mathematical models are broadly used to reduce experiment expenses. However, due to simplified assumptions and uncertain parameters, there are bound to be differences from the actual phenomena. In this study, statistical calibration and validation are used to compare mathematical results and experimental measurements. Paper helicopter experiments are conducted as an actual phenomenon example. Fall time is measured with three nominally identical paper helicopters. The drag coefficient, the single unknown parameter of the two mathematical models, is quantified using Bayesian Calibration. Predicted fall time data is presented in the form of probability distributions. The mathematical  models are validated by comparing predicted distribution and experimental data distribution. In addition, Analysis of Variance test is used to compare manufacturing and experimental error. All three paper helicopters are regarded as one identical model.
 
-|Contingency table|Generative model|
+|Non-informative prior is assumed for the mean and standard deviation for drag coefficient|
 |:--:|
 |<img src="figures/non-informative.JPG" width="300">|
 |<img src="figures/linear and quad posterior distribution.jpg" width="500">|
